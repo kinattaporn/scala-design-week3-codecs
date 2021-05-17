@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bda3139-2a23-4356-8466-9ff7202be18e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sdFAW2eeVjENoXjzHw5ge0Re18" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="codecs.Main" />
+      <module name="progfun2-codecs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codecs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodecsSuite.it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020the$u0020$u0027Unit$u0027$u0020value$u0020$u00280pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-codecs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codecs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codecs" />
+      <option name="MAIN_CLASS_NAME" value="codecs.CodecsSuite" />
+      <option name="METHOD_NAME" value="it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020the$u0020$u0027Unit$u0027$u0020value$u0020$u00280pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="progfun2-codecs" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="JUnit.CodecsSuite.it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020the$u0020$u0027Unit$u0027$u0020value$u0020$u00280pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-codecs" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-design-week3-codecs [file:/Users/janjan_uary/Downloads/Study-Scala/scala-design-week3-codecs/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-codecs-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1841609151" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../SparkScalaCourse" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-design-week1-quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-design-week2-streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week1-recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week2-funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week3-objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week4-patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week6-forcomp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bda3139-2a23-4356-8466-9ff7202be18e" name="Default Changelist" comment="" />
+      <created>1621194416614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621194416614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1082" height="229" key="GridCell.Tab.0.bottom" timestamp="1621229931664">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1082" height="229" key="GridCell.Tab.0.bottom/0.23.1440.873@0.23.1440.873" timestamp="1621229931664" />
+    <state width="1082" height="229" key="GridCell.Tab.0.center" timestamp="1621229931662">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1082" height="229" key="GridCell.Tab.0.center/0.23.1440.873@0.23.1440.873" timestamp="1621229931662" />
+    <state width="1082" height="229" key="GridCell.Tab.0.left" timestamp="1621229931661">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1082" height="229" key="GridCell.Tab.0.left/0.23.1440.873@0.23.1440.873" timestamp="1621229931661" />
+    <state width="1082" height="229" key="GridCell.Tab.0.right" timestamp="1621229931663">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1082" height="229" key="GridCell.Tab.0.right/0.23.1440.873@0.23.1440.873" timestamp="1621229931663" />
+    <state x="541" y="223" width="673" height="472" key="find.popup" timestamp="1621206150119">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="541" y="223" width="673" height="472" key="find.popup/0.23.1440.873@0.23.1440.873" timestamp="1621206150119" />
+  </component>
+</project>

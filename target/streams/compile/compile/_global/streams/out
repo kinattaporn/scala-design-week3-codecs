@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/janjan_uary/Downloads/Study-Scala/scala-design-week3-codecs/project/target/.sbt-compilation-infos/scala-design-week3-codecs-compile/.sbt-idea-lock ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/janjan_uary/Downloads/Study-Scala/scala-design-week3-codecs/src/main/scala/codecs/codecs.scala:223:26: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Arr(_), Bool(_), Null, Num(_), Str(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    Decoder.fromFunction {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/janjan_uary/Downloads/Study-Scala/scala-design-week3-codecs/project/target/.sbt-compilation-infos/scala-design-week3-codecs-compile/.sbt-idea-lock.[0m
